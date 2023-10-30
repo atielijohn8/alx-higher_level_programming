@@ -31,7 +31,7 @@ int check_cycle(listint_t *list)
 			return (1);
 
 		slow_y = slow_y->next;
-		slow_n = slow_n->next->next;
+		slow_n = slow_n->next->next
 	}
 
 	return (0);
