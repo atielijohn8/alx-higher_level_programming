@@ -1,0 +1,1 @@
+ A function is a self-contained block of code that performs a specific task
