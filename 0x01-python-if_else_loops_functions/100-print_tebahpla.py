@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-for ch in reversed(range(97, 123)):
-    print(f"{chr(ch if (ch % 2 == 0) else (ch - 32))}", end='')
+count = 0
+for c in range(ord('z'), ord('a') - 1, -1):
+    print("{}".format(chr(c - count)), end="")
+    count = 32 if count == 0 else 0
