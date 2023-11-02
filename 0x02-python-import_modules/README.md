@@ -1,0 +1,2 @@
+A module is a file containing Python definitions and statements
+A module can contain functions which can be used in other Python scripts once the module is imported. This allows you to organize your code into separate files, making it more manageable.
