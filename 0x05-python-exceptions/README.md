@@ -1,0 +1,1 @@
+exceptions handle errors or unexpected situations that may occur run time of  a program. 
