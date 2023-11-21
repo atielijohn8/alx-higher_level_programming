@@ -1,0 +1,1 @@
+A piece of code creating code block containting objects

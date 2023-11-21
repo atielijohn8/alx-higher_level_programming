@@ -1,1 +1,0 @@
-Unlike a singly linked list, where nodes only have a pointer to the next node, a doubly linked list allows traversal in both directions: forwards and backwards
